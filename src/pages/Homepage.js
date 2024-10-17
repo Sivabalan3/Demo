@@ -15,7 +15,7 @@ const Homepage = () => {
                 <Grid item xs={12} md={6}>
                     <StyledPaper elevation={3}>
                         <StyledTitle>
-                        hello world
+                            Welcome to
                             <br />
                             School Management
                             <br />
